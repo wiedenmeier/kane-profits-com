@@ -6,8 +6,8 @@ en: &DEFAULT_EN
       section: services
     - title: "About"
       section: about
-    - title: "Testemonials"
-      section: portfolio
+#    - title: "Testemonials"
+#      section: portfolio
     - title: "Contact"
       section: contact
 en-US:
